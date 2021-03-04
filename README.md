@@ -18,8 +18,7 @@ Boilerplate code for quick setup for CRUD applications using express/knex/postgr
 
 ### Homebrew (for macOS users)
 
-If you dont have postgres follow this link (Follow directions until you're able to get into psql utility): https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
-
+If you dont have postgres follow this link (Follow directions until you're able to get into psql utility): https://www.tecmint.com/install-postgresql-with-pgadmin4-on-linux-mint/
 #### Create dev and test database (Mac)
 
 In terminal run the following commands:
